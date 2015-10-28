@@ -4,4 +4,4 @@ spec/
 .eslint*
 .git*
 wallaby*
-lib/
+lib
