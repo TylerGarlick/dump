@@ -28,7 +28,7 @@ describe('request', () => {
     it('throws an exception if value is not provided', () =>{
       expect(() => {
         request.addParameters({ 'blah': { type: 'aha!' } });
-      }).to.throw(/undefined/);
+      }).to.throw(/should be defined/);
     });
 
     it('allows value of null', () => {

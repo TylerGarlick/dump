@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/TylerGarlick/festinate.svg?branch=master)](https://travis-ci.org/TylerGarlick/festinate)
+[![Dependency Status](https://www.versioneye.com/nodejs/festinate/0.2.3/badge.svg)](https://www.versioneye.com/nodejs/festinate/0.2.3)
 # festinate
 
 
